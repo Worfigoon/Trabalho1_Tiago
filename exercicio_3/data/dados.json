@@ -1,0 +1,29 @@
+{
+    "jogo":
+    [
+        {
+            "id": 1,
+            "nome": "Crossfire",
+            "datalanc": "3 de maio de 2007",
+            "imagem": "img/crossFire.jpg",
+            "nota": "Crossfire: Cross Fire ou CF é um jogo de tiro em primeira pessoa online publicado pelo grupo sul-coreano NEOWIZ. ",
+            "descricao": "Crossfire é um FPS online gratuito baseado em duas forças mercenárias, Global Risk e Black List, que estão em um conflito global épico. Os jogadores têm ao seu dispor um enorme arsenal de armas de fogo realistas, explosivos, armas brancas e proteções utilizados pelas forças militares do mundo todo. Com modos de jogo variados e cenários únicos e repletos de ação, os jogadores devem trabalhar em conjunto para completar objetivos e ganhar experiência."
+        },
+        {
+            "id": 2,
+            "nome": "Super Mario Bross",
+            "datalanc": "4 de janeiro de 2012",
+            "imagem": "img/marioBross.jpg",
+            "nota": "Super Mario Bros. é um jogo eletrônico lançado pela Nintendo em 1985.",
+            "descricao": "O jogador controla o principal protagonista da série, Mario. O objetivo do jogo é percorrer o Reino do Cogumelo (Mushroom Kingdom), sobreviver às forças do principal vilão, Bowser, e salvar a Princesa Peach (na época conhecida por seu nome americano, Princess Toadstool) e seu reino do domínio dos Koopa Troopas. "
+        },
+        {
+            "id": 3,
+            "nome": "Mortal Combate",
+            "datalanc": "22 de novembro de 2016",
+            "imagem": "img/mortalCombate.jpg",
+            "nota": "Mortal Kombat é um jogo de luta de estilo 2D com gráficos 3D, o que o fez ser conhecido popularmente como Mortal Kombat 9.",
+            "descricao": "Raiden, prestes a ser assassinado por Shao Kahn, faz um feitiço no seu agora partido amuleto mágico, direcionando-o a contactar seu alter ego no passado com a mensagem Ele deve vencer!. Antes de ser morto, Raiden transporta sua essência para si mesmo no passado e, desta forma, tem uma segunda chance para alterar os eventos e cumprir sua missão: proteger a Terra (Earthrealm) dos invasores da Exoterra (Outworld)."
+        }
+    ]
+}

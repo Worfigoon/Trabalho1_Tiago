@@ -1,0 +1,36 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+#content {
+	padding: 10px;
+}
+
+
+#informa {
+
+	background-color: red;
+	background-size: 50px;
+}
+
+#texto {	
+	padding: 20px;
+	text-align: center;
+}
+
+#imgJogo {
+	float: left;
+	padding: 30px;
+}
+
+ .botao{
+        font-size:10x;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:#638cb5;
+        border:0px;
+        width:100px;
+        height:20px;
+       }

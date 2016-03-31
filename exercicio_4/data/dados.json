@@ -1,0 +1,40 @@
+{
+    "noticias":
+    [
+         
+         {  "id": 1,
+                    
+            "paragrafo":
+                [
+                    "Tudo o que existe no mundo faz parte de uma grande teia: você, eu, seus amigos e familiares, o dispositivo através do qual você está acessando a presente página, sua casa e escola, as zonas urbana e rural, seu estado e país, as plantas e os animais, ... enfim, tudo o que existe está, de uma forma ou de outra, conectado.",
+                    "As diferentes disciplinas que fazem parte do seu currículo são formas de compreensão da realidade, formando áreas ou campos do conhecimento. Cada uma procura estudar um aspecto da realidade: a Língua Portuguesa procura compreender o processo de formação e o uso social da nossa língua; a História, as origens do mundo tal como se apresenta hoje; a Geografia, como os aspectos naturais e humanos influenciam na organização do espaço; enfim, cada área do conhecimento procura conhecer melhor um determinado aspecto da realidade.",
+                    "Assim como tudo o que existe no mundo está conectado, as diferentes disciplinas (ou áreas do conhecimento) também mantêm relações entre si. Aqui na página Teia do Conhecimento promoveremos um diálogo com as diferentes disciplinas que, direta ou indiretamente, contribuirão para a escrita dos artigos científicos. "
+                    
+                    
+                ] 
+
+                
+            
+        },
+
+        {   "id": 2,
+            "paragrafo":
+            [
+                "Embora a data e o lugar ainda não tenham sido anunciados, um robô japonês de 4 toneladas e um americano, de 5,4 toneladas, em breve estarão cara a cara inaugurando um novo tipo de espetáculo, já retratado em obras de ficção científica: as batalhas de robôs gigantes.",
+                "Os fundadores da Megabot, Gui Cavalcanti e Matt Oehrlein, aparecem no vídeo usando a bandeira dos EUA como capa e explicam que por serem americanos equiparam Mark II com canhões [de paintball] muito grandes antes de desafiar para um duelo a Suidobashi e seu modelo Kuratas."
+                
+            ]
+
+        },
+
+        {
+            "id": 3,
+            "paragrafo":
+            [
+                "Viagem espacial, ou simplesmente voo espacial, é a denominação do método de transporte de veículos tripulados e não-tripulados no (e através do) espaço sideral. A viagem espacial está associada às tecnologias de propulsão de espaçonaves, direção (astrodinâmica), construção e lançamento de veículos com este objetivo.",
+                "A viagem espacial é um componente necessário da exploração espacial, mas também suporta atividades tais como lançamento de satélites de telecomunicações e turismo espacial."
+                
+            ]
+        }
+    ]  
+}
